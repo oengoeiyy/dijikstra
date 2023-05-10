@@ -1,0 +1,15 @@
+ข้อที่ 2 shortest path algorithm
+---------------------------------------
+วิธีเปิดโปรแกรม-> No.2_shortest_path_algorithm\Runcode2.exe
+---------------------------------------
+
+UserManual อธิบายการใช้งาน User interface และ ส่วนของการอธิบาย code จะอยู่ใน File เดียวกัน
+
+Code2_pdf คือ File.code ที่ทำเป็น File.pdf แล้ว มี 2 คลาสใน 1 File
+
+---------------------------------------
+***หมายเหตุ : ห้ามเคลื่อนย้าย file Group8.MainClass2***
+
+
+
+
